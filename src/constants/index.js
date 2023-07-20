@@ -222,7 +222,7 @@ const projects = [
     view: "https://dashboardbyahmer.netlify.app/",
   },
   {
-    name: "Job IT",
+    name: "Trello Clone",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
@@ -231,16 +231,21 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "dnd drag and drop",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "appWrite",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: "https://alexnicholas.dev/images/trello.webp",
+    source_code_link: "https://github.com/khanahmer56/trello_clone",
+    view: "https://trelloo-clone.netlify.app/",
   },
   {
     name: "Trip Guide",
