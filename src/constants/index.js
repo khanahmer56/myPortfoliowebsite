@@ -201,18 +201,22 @@ const projects = [
   {
     name: "Dashboard",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "The Dashboard App project is a testament to my proficiency in developing data-driven web applications that provide users with a central hub to monitor and manage various aspects of their work, projects, or data. This project showcases my ability to create dynamic and visually appealing dashboards that offer insights and streamline decision-making.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "nivo charts",
         color: "green-text-gradient",
       },
       {
         name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "material ui",
         color: "pink-text-gradient",
       },
     ],
@@ -224,7 +228,7 @@ const projects = [
   {
     name: "Trello Clone",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "The Trello Clone project is a showcase of my web development skills, offering a practical demonstration of my ability to create dynamic and interactive applications. Inspired by the popular project management tool Trello, this clone provides users with a digital platform to manage tasks, projects, and workflows in an organized and visual manner.",
     tags: [
       {
         name: "react",
@@ -248,25 +252,27 @@ const projects = [
     view: "https://trelloo-clone.netlify.app/",
   },
   {
-    name: "Trip Guide",
+    name: "Thread Clone",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "The Thread App Clone is a project developed as part of my portfolio to showcase my web development skills. The concept behind this app is to mimic the functionality of a basic online discussion platform where users can create and participate in threads on various topics. The app provides a user-friendly interface for creating, viewing, and interacting with threads, giving visitors a glimpse into my abilities as a web developer.",
     tags: [
       {
-        name: "nextjs",
+        name: "nextjs 13",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Clerk",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "mongodb",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image:
+      "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_645/0ab983b85205d6413348066024d59b2b.jpg",
+    source_code_link: "https://github.com/khanahmer56/thradsApp",
+    view: "https://thrads-app.vercel.app/",
   },
 ];
 

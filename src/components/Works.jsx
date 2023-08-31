@@ -87,11 +87,22 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Following projects showcases my skills and experience through
+          {/* Following projects showcases my skills and experience through
           real-world examples of my work. Each project is briefly described with
           links to code repositories and live demos in it. It reflects my
           ability to solve complex problems, work with different technologies,
-          and manage projects effectively.
+          and manage projects effectively. */}
+          "Embarking on Frontend Journeys: Showcasing Creativity and Expertise"
+          Dive into the world of frontend development as I unveil a collection
+          of captivating projects that bring my creativity and expertise to
+          life. Each project serves as a testament to my ability to shape
+          engaging user experiences through meticulous design, seamless
+          functionality, and an unwavering commitment to excellence. Through
+          these projects, I invite you to witness the artistry that lies in
+          transforming code into captivating visuals and interactive interfaces.
+          Join me in exploring the realms where aesthetics meet functionality,
+          and discover the dynamic landscapes I've crafted using the latest
+          frontend technologies and best practices.
         </motion.p>
       </div>
 
